@@ -9,4 +9,5 @@ Controls:
   - Press 'Backspace' to delete the last bounding box
 
 The bounding boxes are saved in a text file with the same name as the image
+
 Bounding box format: left_x top_y right_x bottom_y
